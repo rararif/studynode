@@ -44,3 +44,8 @@ app.use(function(err, req, res, next) {
 });
 
 module.exports = app;
+
+var g = 0;
+var g = 0;
+var g = 0;
+var g = 0;
